@@ -1,3 +1,3 @@
 ##NET_PRATRICE##
 
-![L’ordinateur veut se connecter a internet(3)](https://github.com/user-attachments/assets/a8f09627-3a8c-42ef-baaf-70d62c34f3e7)
+![L’ordinateur veut se connecter a internet(4)](https://github.com/user-attachments/assets/3c44ab34-9f4e-477e-9247-518b10539f85)
