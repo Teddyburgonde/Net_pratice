@@ -1,6 +1,3 @@
 ##NET_PRATRICE##
 
-
-<p align="center">
-	<img src="file:///nfs/homes/tebandam/Pictures/Screenshots/explain_net_pratice.png" alt="diner" />
-</p>
+![L’ordinateur veut se connecter a internet(3)](https://github.com/user-attachments/assets/a8f09627-3a8c-42ef-baaf-70d62c34f3e7)
