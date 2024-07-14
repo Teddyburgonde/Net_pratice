@@ -11,7 +11,47 @@
 **Si vous descendez plus bas, vous aurez les réponses des exercices.
 Le but ce n'est pas de copier bêtement les réponses, mais de plutôt essayer de comprendre les principes et ensuite plutôt de chercher une plage valide, vous pouvez prendre ceux des exercices.**
 
+```c
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
 
 
 
