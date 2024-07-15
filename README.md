@@ -126,8 +126,6 @@ Le but ce n'est pas de copier bêtement les réponses, mais de plutôt essayer d
 
 **Level 6**
 ![level6](https://github.com/user-attachments/assets/1a9dc13f-0c38-48b3-bc4b-4f1a0c16a34c)
-
-
 **Level 7**
 ![level7](https://github.com/user-attachments/assets/a5b14c0d-bc13-401f-ab04-a4a406b48fce)
 
@@ -137,12 +135,8 @@ Le but ce n'est pas de copier bêtement les réponses, mais de plutôt essayer d
 **Level 9**
 ![level9](https://github.com/user-attachments/assets/67655cb1-8274-4883-ac48-2e6e58ba5a99)
 
-
-
-
-
-
-
+**Level 10**
+![level10](https://github.com/user-attachments/assets/a87c6b93-cdb2-4ea8-85c2-87fed3357c69)
 
 
 
