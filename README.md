@@ -133,3 +133,25 @@ Le but ce n'est pas de copier bêtement les réponses, mais de plutôt essayer d
 
 **Level 8**
 ![level8](https://github.com/user-attachments/assets/b8382866-6b6b-43ec-a924-23c261413bf2)
+
+**Level 9**
+![level9](https://github.com/user-attachments/assets/67655cb1-8274-4883-ac48-2e6e58ba5a99)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
