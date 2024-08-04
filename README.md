@@ -26,7 +26,24 @@ IPv4 définit une adresse IP sur 32 bits.
 Un masque de sous-réseau est une adresse de 32 bits.
 Il définit la plage d'adresses IP disponibles pouvant
 être utilisées au sein du réseau.
+0 et 127 sont réservé a des usages specifiques.
 ```
+
+**Switch**
+
+```c
+Il Permet de relier plusieurs appareils au sein d'un même reseau.
+```
+
+
+
+
+
+
+
+
+
+
 
 **Explain**
 ![L’ordinateur veut se connecter a internet(4)](https://github.com/user-attachments/assets/3c44ab34-9f4e-477e-9247-518b10539f85)
