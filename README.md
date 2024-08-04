@@ -35,7 +35,11 @@ Il définit la plage d'adresses IP disponibles pouvant
 Il Permet de relier plusieurs appareils au sein d'un même reseau.
 ```
 
+**Router**
 
+```c
+Il Permet de relier plusieurs reseau entre eux. 
+```
 
 
 
