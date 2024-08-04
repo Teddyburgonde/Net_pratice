@@ -8,7 +8,7 @@ une bonne communication entre les machines, en s'assurant
 que les paquets de données sont bien reçus et dans le bon ordre."
 ```
 
-**Adress ip**
+**Adress IP**
 
 ```c
 Une adresse IP est un identifiant unique d'une machine sur un réseau.
