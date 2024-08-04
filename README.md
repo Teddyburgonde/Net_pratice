@@ -3,7 +3,9 @@
 **Protocol TCP**
 
 ```c
-Le protocole TCP est un protocole de communication qui permet une bonne communication entre les machines, en s'assurant que les paquets de données sont bien reçus et dans le bon ordre."
+Le protocole TCP est un protocole de communication qui permet
+une bonne communication entre les machines, en s'assurant
+que les paquets de données sont bien reçus et dans le bon ordre."
 ```
 
 **Adress ip**
@@ -21,7 +23,9 @@ IPv4 définit une adresse IP sur 32 bits.
 **Mask**
 
 ```c
-Un masque de sous-réseau est une adresse de 32 bits. Il définit la plage d'adresses IP disponibles pouvant être utilisées au sein du réseau.
+Un masque de sous-réseau est une adresse de 32 bits.
+Il définit la plage d'adresses IP disponibles pouvant
+être utilisées au sein du réseau.
 ```
 
 **Explain**
